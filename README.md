@@ -1,6 +1,6 @@
 # MTimePicker
 <h4>Simple HTML TimePicker for Mobile Devices</h4>
-"M" may stands for Maikon, Mobile, Minimal or My Time Picker
+"M" can stand for Mobile, Minimal or My Time Picker
 
 Does not require jQuery.
 

@@ -21,4 +21,4 @@ Does not require jQuery.
   MTimePicker.Apply('txtHoraFinal', 'Escolha a Hora Final:');
 </pre>
 <h4>Screenshot:</h4>
-<a href="http://maikonfarias.com/blog/wp-content/uploads/2015/03/MTimePicker_screenshot.png"><img class="alignnone size-full wp-image-357" src="http://maikonfarias.com/blog/wp-content/uploads/2015/03/MTimePicker_screenshot.png" alt="MTimePicker_screenshot" width="280" height="533" /></a>
+<a href="http://maikonfarias.com/blog/wp-content/uploads/2015/04/MTimePicker_screenshot2.png"><img class="alignnone size-full wp-image-364" src="http://maikonfarias.com/blog/wp-content/uploads/2015/04/MTimePicker_screenshot2.png" alt="MTimePicker_screenshot2" width="279" height="532" /></a>
